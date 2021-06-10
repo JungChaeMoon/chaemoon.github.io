@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3400bdd-4717-4848-a4ee-5f6349a10a7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/donate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JungChaeMoon.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-06-10-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-10-welcome-to-jekyll.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_solarized-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/ext/_solarized-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/plain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/search.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/toggle.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/darkmode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/simple-jekyll-search.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plainwhite.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="455dfbf4-23cd-429b-abc1-ee622c4eba4d" />
+  <component name="ProjectId" id="1tiYZsVRnIvsOpjy1nnBNBxtiy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3400bdd-4717-4848-a4ee-5f6349a10a7b" name="Default Changelist" comment="" />
+      <created>1623253435722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623253435722</updated>
+      <workItem from="1623253436843" duration="3609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623333849122">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1623333849122" />
+    <state x="227" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623333390131">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="227" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1623333390131" />
+    <state x="418" y="194" width="604" height="490" key="find.popup" timestamp="1623336317168">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="418" y="194" width="604" height="490" key="find.popup/0.23.1440.833@0.23.1440.833" timestamp="1623336317168" />
+    <state x="385" y="180" width="670" height="676" key="search.everywhere.popup" timestamp="1623254677402">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="385" y="180" width="670" height="676" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1623254677402" />
+  </component>
+</project>
