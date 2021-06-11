@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: CS kafka tag3 tag4
+tags: cs kafka tag3 tag4
 ---
 
 ## Lorem Ipsum
