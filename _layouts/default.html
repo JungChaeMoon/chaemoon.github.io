@@ -22,7 +22,11 @@
 	<div class="wrapper">
 		<div class="default_title">
 			<img src="/assets/img/mycomputer.png" />
-				<h1>{{ site.name }}</h1>
+				{% if page.tag %}
+					<h1>{{ page.tag }}</h1>
+			    {% else %}
+			        <h1>{{site.name}}</h1>
+			    {% endif %}
 		</div>
 		{% include topbar.html %}
 		<div class="tag_list">
