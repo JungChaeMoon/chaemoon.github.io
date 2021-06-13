@@ -1,8 +1,8 @@
 tag1:
-  name: CS
+  name: tag1
 
 tag2:
-  name: kafka
+  name: tag2
 
 tag3:
   name: tag3

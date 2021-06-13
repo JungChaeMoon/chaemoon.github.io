@@ -22,11 +22,11 @@
 	<div class="wrapper">
 		<div class="default_title">
 			<img src="/assets/img/mycomputer.png" />
-				{% if page.tag %}
-					<h1>{{ page.tag }}</h1>
-			    {% else %}
-			        <h1>{{site.name}}</h1>
-			    {% endif %}
+			{% if page.tag %}
+				<h1>{{ page.tag }}</h1>
+			{% else %}
+				<h1>{{ site.name }}</h1>
+			{% endif %}
 		</div>
 		{% include topbar.html %}
 		<div class="tag_list">
@@ -40,7 +40,6 @@
 			</ul>
 				</li>
 			</ul>
-
 		</div>
 		<div class="post_list">
 			{% unless page.date%}

@@ -22,6 +22,11 @@
     <list default="true" id="f3400bdd-4717-4848-a4ee-5f6349a10a7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/cs.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/cs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/kafka.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/kafka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag3.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/tag3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag4.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/tag4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +82,10 @@
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="227" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1623333390131" />
-    <state x="418" y="194" width="604" height="490" key="find.popup" timestamp="1623336317168">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="418" y="194" width="957" height="490" key="find.popup" timestamp="1623588767195">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
+    <state x="418" y="194" width="957" height="490" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1623588767195" />
     <state x="418" y="194" width="604" height="490" key="find.popup/0.23.1440.833@0.23.1440.833" timestamp="1623336317168" />
     <state x="385" y="180" width="670" height="676" key="search.everywhere.popup" timestamp="1623254677402">
       <screen x="0" y="23" width="1440" height="833" />
