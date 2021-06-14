@@ -81,6 +81,9 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.1.4)
   jekyll-dash!
+  jekyll-feed
+  jekyll-paginate
+  jekyll-seo-tag
   jekyll-tagging
   kramdown-parser-gfm
   liquid-md5
