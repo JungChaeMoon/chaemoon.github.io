@@ -1,25 +1,52 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: ""
+title: chaemoon
+author: JungChaeMoon
+email: jungchaemoon@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  안녕하세요~ 데이터엔지니어 정채문입미당
+show_excerpts: false # set to true to show excerpts on the homepage
 
-# variables
-name: Chaemoon's Computer
-description: Your description here
-google_verification: null
+paginate: 10
+paginate_path: "/blog/page:num/"
 
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
 
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  date_format: "%b %-d, %Y"
 
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
+  disqus:
+    shortname: bitbrain-github-io
 
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://twitter.com/bitbrain_
+      icon: twitter-square
+      color: cyan
+    - url: https://bitbrain.itch.io
+      icon: itch-io
+      color: red
+    - url: https://github.com/bitbrain
+      icon: github-square
+      color: purple
+
+  show_author: true
+
+  animation_speed: 50
+
+# Build settings
+theme: jekyll-dash
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
+
+# Replaces the default avatar provider (gravatar)
+#avatar_source: github
+#github_username: bitbrain
